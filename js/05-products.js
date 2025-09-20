@@ -81,3 +81,4 @@ function showModal(item) {
   const modal = basicLightbox.create(markup);
   modal.show();
 }
+/////;
